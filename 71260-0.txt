@@ -16,6 +16,7 @@ Author: Miguel de Unamuno
 Translator: John Ernest Crawford Flitch
 
 Release Date: July 23, 2023 [eBook #71260]
+Last Updated: September 26, 2023
 
 Language: English
 
@@ -24,7 +25,6 @@ Credits: Chuck Greif and the Online Distributed Proofreading Team at
          available at The Internet Archive)
 
 *** START OF THE PROJECT GUTENBERG EBOOK ESSAYS AND SOLILOQUIES ***
-
 
 
 
@@ -1156,15 +1156,15 @@ classical form of Castilian humour, a quiet and circumspect humour,
 sententious and phlegmatic, the humour of Sanson Carrasco in _Don
 Quixote_ and of Quevedo, he who wrote the discourses of Marcus Brutus.
 
-His slowness is matched by his tenacity, qualities that
-have an intimate association. His reaction-interval, as the
+His slowness is matched by his tenacity, qualities that have an
+intimate association. His reaction-interval, as the
 psycho-physiologists would express it, is long; it takes him a
-considerable time to realize an impression or an idea, but once he
-has grasped it he does not readily relinquish it, does not in fact
-relinquish it until another has impinged upon it and driven it out.
-The slowness and tenacity of his impressions would appear to be due
-to the lack of an environing and unifying nimbus, blending them into
-a conjunctive whole; they do not merge into one another by subtle
+considerable time to realize an impression or an idea, but once he has
+grasped it he does not readily relinquish it, does not in fact
+relinquish it until another has impinged upon it and driven it out. The
+slowness and tenacity of his impressions would appear to be due to the
+lack of an environing and unifying nimbus, blending them into a
+conjunctive whole; they do not merge into one another by subtle
 gradations, but each one disappears completely before the next takes
 its place. They seem to follow one another like the succession of
 uniform and monotonous tones in the landscape of his country, sharp
@@ -2294,10 +2294,10 @@ and nothing more than reasons!
 Although he deserved to have been a Spaniard for writing them, it was
 not a Spaniard but an Englishman who wrote these lines:
 
-For nothing worthy proving can be proven
-Nor yet disproven; wherefore thou be wise,
-Cleave ever to the sunnier side of doubt,
-And cling to Faith beyond the forms of Faith.
+  For nothing worthy proving can be proven
+  Nor yet disproven; wherefore thou be wise,
+  Cleave ever to the sunnier side of doubt,
+  And cling to Faith beyond the forms of Faith.
 
 It was Lord Tennyson who wrote these pregnant lines, and in the same
 poem, “The Ancient Sage,” he tells us that “knowledge is the swallow on
@@ -2317,7 +2317,7 @@ THE SPANISH CHRIST
 He was a foreigner, a South American, and he came from Paris. “But
 these Christs!--Good God!” he said to me, as we stood before one of the
 bloodiest of those that are to be found in our cathedrals, “this thing
-repels, revolts---- ”
+repels, revolts----”
 
 “It revolts him who knows nothing of the cult of suffering,” I said.
 And he replied: “But suffering is not blood. There is bloodless
@@ -5641,7 +5641,7 @@ of a man. The cultivation of any science--of chemistry, of physics, of
 geometry, of philology--may be, though within very narrow limits and
 restrictions, a work of differentiated specialization; but philosophy,
 like poetry, is either a work of integration and harmony or else it is
-mere philosophism, psuedo-philosophical erudition.
+mere philosophism, pseudo-philosophical erudition.
 
 All knowledge has an ultimate object. Knowing for the sake of knowing
 is, say what you will, nothing but a solemn begging of the question.
@@ -5998,7 +5998,7 @@ consciousness, his memory, for ever, there lurks a shadow, all unknown
 to him perhaps, a vague shadow, a shadow of a shadow of uncertainty,
 and while he says within himself: “Well, let us live this passing life,
 for there is no other!” the silence of this secret chamber speaks to
-him and murmers: “Who knows!...” He may not think he hears it, but he
+him and murmurs: “Who knows!...” He may not think he hears it, but he
 hears it. And likewise in some secret place of the soul of the believer
 who most firmly holds the faith in future life, there is a muffled
 voice, a voice of uncertainty, which whispers in the ear of his spirit:
@@ -6785,8 +6785,8 @@ _DE MI PAIS_ (About My Country). Fernando Fé, Madrid, 1903.
 _VIDA DE DON QUIJOTE Y SANCHO_ según Miguel de Cervantes Saavedra
 explicada y comentada por Miguel de Unamuno (Life of Don Quixote
 and Sancho, with explanation and commentary by Miguel de Unamuno).
-Rencimiento, Madrid, 1905. Second edition, with introductory article,
-_El Sepulcyo de Don Quijote_, 1913.
+Renacimiento, Madrid, 1905. Second edition, with introductory article,
+_El Sepulcro de Don Quijote_, 1913.
 
 _POESIAS._ Fernando Fé y Victoriano Suarez, Madrid, 1907.
 
